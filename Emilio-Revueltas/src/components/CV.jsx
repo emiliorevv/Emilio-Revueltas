@@ -1,7 +1,7 @@
 import { Container, Row, Col } from 'react-bootstrap';
 import cvImage from '../assets/cv.png';
-import cvSpanishPdf from '../assets/CurriculumEspañol copy.pdf';
-import cvEnglishPdf from '../assets/CVEnglish copy.pdf';
+import cvSpanishPdf from '../assets/cv-espanol.pdf';
+import cvEnglishPdf from '../assets/cv-english.pdf';
 
 function CV() {
     return (
